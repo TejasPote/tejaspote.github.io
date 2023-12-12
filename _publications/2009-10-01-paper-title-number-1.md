@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Forward and Backward Sparse Training (DFBST): Accelerated Deep Learning through Completely Sparse Training Schedule"
 collection: publications
-permalink: ''
+permalink: False
 excerpt: ''
 date: 2022-12-14
 venue: 'Asian Conference on Machine Learning'

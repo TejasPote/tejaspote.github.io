@@ -1,7 +1,7 @@
 ---
 title: "Classification Bias on a Data Diet"
 collection: publications
-permalink: ''
+permalink: False
 excerpt: '' 
 date: 2023-11-20
 venue: 'Conference on Parsimony and Learning (Recent Spotlight Track)'
