@@ -8,7 +8,9 @@ venue: 'Asian Conference on Machine Learning'
 paperurl: 'https://proceedings.mlr.press/v189/pote23a.html'
 citation: False
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this work, we address the shortcomings of existing dynamic sparse training methods aimed at finding sparse subnetworks within deep neural networks during training.We introduce DFBST, a novel sparse training algorithm which sparsifies both weights and gradients of the network using trainable thresholds which are jointly optimized with the network parameters through the same loss function.
+
+
 
 [Download paper here](https://proceedings.mlr.press/v189/pote23a/pote23a.pdf)
 
