@@ -3,13 +3,13 @@ title: "Dynamic Forward and Backward Sparse Training (DFBST): Accelerated Deep L
 collection: publications
 permalink: https://proceedings.mlr.press/v189/pote23a.html
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-4-13
+date: 2022-12-14
 venue: 'Asian Conference on Machine Learning'
 paperurl: 'https://proceedings.mlr.press/v189/pote23a.html'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: ''
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://proceedings.mlr.press/v189/pote23a/pote23a.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
