@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-12-14
 venue: 'Asian Conference on Machine Learning'
 paperurl: 'https://proceedings.mlr.press/v189/pote23a.html'
-citation: None
+citation: ' '
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

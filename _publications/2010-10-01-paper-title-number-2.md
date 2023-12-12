@@ -6,7 +6,7 @@ excerpt: ' '
 date: 2023-11-20
 venue: 'Conference on Parsimony and Learning (Recent Spotlight Track)'
 paperurl: 'https://openreview.net/forum?id=7n6CQrcJI9'
-citation: None
+citation: ' '
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
