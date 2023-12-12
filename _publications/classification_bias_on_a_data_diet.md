@@ -13,6 +13,6 @@ In this work, we analyse the classification bias in image classification tasks o
 
 
 
-[Download paper here](https://openreview.net/pdf?id=7n6CQrcJI9)
+[Download paper here](https://openreview.net/forum?id=7n6CQrcJI9)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->

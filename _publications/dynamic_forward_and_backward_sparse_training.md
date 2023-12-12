@@ -12,6 +12,6 @@ In this work, we address the shortcomings of existing dynamic sparse training me
 
 
 
-[Download paper here](https://proceedings.mlr.press/v189/pote23a/pote23a.pdf)
+[[Download paper here]](https://proceedings.mlr.press/v189/pote23a.html)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
