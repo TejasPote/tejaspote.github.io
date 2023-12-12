@@ -2,11 +2,11 @@
 title: "Classification Bias on a Data Diet"
 collection: publications
 permalink: https://openreview.net/forum?id=7n6CQrcJI9
-excerpt: ' '
+excerpt: '' 
 date: 2023-11-20
 venue: 'Conference on Parsimony and Learning (Recent Spotlight Track)'
 paperurl: 'https://openreview.net/forum?id=7n6CQrcJI9'
-citation: ' '
+citation: False
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
